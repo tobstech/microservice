@@ -1,5 +1,5 @@
 .metadata/
-api-gateway/volume-data/mysql_keycloak_data/
+api-gateway/volume-data/
 inventory-service/mysql/
 order-service/mysql/
 product-service/data/
